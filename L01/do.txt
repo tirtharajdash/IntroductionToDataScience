@@ -1,0 +1,12 @@
+1. Install Python latest (3.x) on your machine. You will find it here: https://www.python.org/downloads/
+2. Practice (Chapter 1 and 2) from: https://www.py4e.com/ (this is an engaging book on Python)
+
+Additionally, if you prefer to work on Jupyter-Notebook (i.e. a IDE type tool for Browser), 
+you need to the following:
+
+1. Install conda with Python 3.x: https://docs.conda.io/en/latest/miniconda.html
+2. After conda is set up, activate it; by default it would be activated). If it is activated, 
+you will see "(base)$" in your terminal window. If using Window, open "Anaconda Prompt".
+3. Install Jupyter software within conda base environment: https://jupyter.org/install
+4. You are ready. Type: jupyter-notebook on terminal window or command prompt.
+5. Type print("Hello, World!") to see that it works or not.
